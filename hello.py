@@ -3,4 +3,4 @@ def tashizan(a, b):
 
 print("Jeffor")
 print("HELLO")
-print("YEAH")
+print("HAHAHAAH")
