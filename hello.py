@@ -1,4 +1,4 @@
-def tashizan(a, b):
-  return a-b
+def tashizan(a, b, c):
+  return a+b+c
 
 print("HELLO")
