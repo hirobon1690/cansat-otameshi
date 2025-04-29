@@ -1,4 +1,4 @@
 def tashizan(a, b):
   return a+b
 
-print("HELLO")
+print("HELLO!!!!!!PM大好き")
